@@ -41,9 +41,9 @@
 ##### 1. Deepak Chaturvedi 
 ##### 2. Kushagra Goel
 ##### 3. Saurabh Chaudhary
-##### 4. Sankalp Jaitley
+##### 4. Sankalp Jaitly
 
 ### Link to the video 
 <a href="https://www.youtube.com/watch?v=RqSFXXOLtUg">
-  <img src="https://drive.google.com/file/d/1WFuw_xJa24XZmIOdIlHCz0F17qpjV648/view?usp=sharing">
+  <img src="">
 </a>
