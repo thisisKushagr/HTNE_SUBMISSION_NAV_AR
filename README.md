@@ -45,5 +45,5 @@
 
 ### Link to the video 
 <a href="https://www.youtube.com/watch?v=RqSFXXOLtUg">
-  <img src="">
+  <img src="https://github.com/kushagra-0-1/HTNE_SUBMISSION_NAV_AR/blob/main/README%20files/yt_logo.png" width=100 height=100>
 </a>
