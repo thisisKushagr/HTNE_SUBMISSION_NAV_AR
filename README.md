@@ -3,8 +3,11 @@
 <p align=center> We are glad to present our idea </p>
 
 
-<p align=center> <b><u> " NAV-AR " </b></u></p>
-![](https://github.com/deepakchaturvedifzd/HTNE_SUBMISSION_NAV_AR/blob/main/README%20files/NAV%20(6).png)
+<p align=center> <b><u> " NAV-AR " </b></u><br>
+
+<img src="https://github.com/deepakchaturvedifzd/HTNE_SUBMISSION_NAV_AR/blob/main/README%20files/appLogo.png" width="200px">
+</p>
+
 ## What is NAV-AR ?
 ###### NAV-AR is a mobile application that delivers highly accurate indoor mapping and navigation using Augmented Reality built on the principles of SLAM.
 ###### navigation using Augmented Reality built on the principles of SLAM.
