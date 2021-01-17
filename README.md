@@ -16,7 +16,7 @@
 
 
 ## How We built it
-###### We built navAR by use of SLAM i.e., Simultaneous Localization and Mapping,  a computational technique that involves the task of constructing an internal map of an unknown area whilst keeping track of its position inside the area. Next we rendered the map and made use of A* pathfinding algorithm for finding shortest path. To deliver a highly interactive  Augmented Reality Experience, we used Unity Engine and Google ARCore. Lastly we made use of a QR code scan mechanism for calibration and localisation purposes.
+###### We built Nav-AR by use of SLAM i.e., Simultaneous Localization and Mapping, a computational technique that involves the task of constructing an internal map of an unknown area whilst keeping track of its position inside the area. Next we rendered the map and made use of A* pathfinding algorithm for finding shortest path. To deliver a highly interactive  Augmented Reality Experience, we used Unity Engine and Google ARCore. Lastly we made use of a QR code scan mechanism for calibration and localisation purposes.
 ### Our Team built NAV-AR using  :
 <ul>
   <li> <b>Unity</b> </li>
@@ -30,10 +30,10 @@
 ###### (re)positioning the user inside the map while navigation 
 
 ## Accomplishments that we are proud of
-###### Creating a fully functional Augmented Reality app(prototype) in a short span of time
+###### Creating a fully functional Augmented Reality app(prototype) in a short span of time with a explanation video of the same
 
-## What I learned
-###### Implementing Augmented Reality,A* algo for wayfinding, Baking nav mesh and had a great experience.
+## What we learned
+###### Implementing Augmented Reality, A* Pathfinding algo for, baking navmesh and had a great experience.
 
 ## What's next for "NAV-AR"
 ###### Making it more cloud dependent so that the user can download the map from the database to navigate.
