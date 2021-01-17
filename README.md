@@ -1,4 +1,4 @@
-![](https://github.com/deepakchaturvedifzd/OctaHacks3.0_Submission/blob/main/README%20files/bg.PNG)
+![](https://github.com/deepakchaturvedifzd/HTNE_SUBMISSION_NAV_AR/blob/main/README%20files/bg.PNG)
 <p align=center><b> Greetings from Team Cypher, </b></p>
 <p align=center> We are glad to present our idea </p>
 
