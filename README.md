@@ -10,7 +10,6 @@
 
 ## What is NAV-AR ?
 ###### NAV-AR is a mobile application that delivers highly accurate indoor mapping and navigation using Augmented Reality built on the principles of SLAM.
-###### navigation using Augmented Reality built on the principles of SLAM.
 
 ## Inspiration 
 ###### In this age almost every inch of our world is already mapped. You’ll navigate using google maps or some other GPS app.,
