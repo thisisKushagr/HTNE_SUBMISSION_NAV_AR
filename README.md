@@ -1,50 +1,50 @@
-<p align=center><img src="https://github.com/deepakchaturvedifzd/
-HTNE_SUBMISSION_NAV_AR/README%20files/edlabs_logo.png" height=150 width=150 ></img></p>
-
 
 <p align=center><b> Greetings from Team Cypher, </b></p>
 <p align=center> We are glad to present our idea </p>
 
-<p align=center><img src="https://github.com/thisiskartikgupta/EduLabs-Team-Cyphers-HopHacks20/blob/master/README%20files/edlabs_logo.png" height=150 width=150 ></img></p>
-<p align=center> <b><u> " EDULABS " </b></u></p>
 
-## What is EduLabs ?
-###### EduLabs is an __interactive educational app__ which allows students to access their personal labs and helps them carry
-###### out practicals in times like these when online education is the major medium of education.
+<p align=center> <b><u> " NAV-AR " </b></u></p>
+
+## What is NAV-AR ?
+###### NAV-AR is a mobile application that delivers highly accurate indoor mapping and navigation using Augmented Reality built on the principles of SLAM.
+###### navigation using Augmented Reality built on the principles of SLAM.
 
 ## Inspiration 
-###### The online medium has taken over the education industry. The students face difficulty in getting access to the 
-###### laboratory education. There are many simulation softwares which make the work easy but none get them as far as 
-###### giving them a real-life experience. So, we propose EduLabs as an alternative to the online laboratory education.
+###### In this age almost every inch of our world is already mapped. You’ll navigate using google maps or some other GPS app.,
+######  However, once you reach your destination and go indoors, GPS has no line of sight and you go back for asking directions
+######  this is where NAV-AR “comes into play”(enters).
 
-## What does EduLabs do?
-###### EduLabs empowers the students to visualize the laboratory education through an immersive Augmented Reality(AR)
-###### experience. Students can learn at their pace at the comfort of their homes. All this is made possible through 
-###### a mobile application without any additional burden.
 
 ## How We built it
+###### We built navAR by use of SLAM i.e., Simultaneous Localization and Mapping,  a computational technique that involves
+###### the task of constructing an internal map of an unknown area whilst keeping track of its position inside the area. 
+###### Next we rendered the map and made use of A* pathfinding algorithm for finding shortest path. To deliver a highly 
+###### interactive  Augmented Reality Experience, we used Unity Engine and Google ARCore. Lastly we made use of a QR code 
+###### scan mechanism for calibration and localisation purposes.
 ###### Our Team built EduLabs using  :
 <ul>
   <li> <b>Unity</b> </li>
   <li> <b>Google ARCore </b> </li>
+  <li> <b>SLAM</b></li>
   <li> <b>C# </b></li>
-  <li> <b>Java</b></li>
+  <li> <b>A* Pathfinding algo</b></li>
 </ul>
 
 ## Challenges We ran into
-###### Creating an immersive experience 
+###### (re)positioning the user inside the map while navigation 
 
 ## Accomplishments that I'm proud of
-###### Creating a fully functional Augmented Reality app in a short span of time
+###### Creating a fully functional Augmented Reality app(prototype) in a short span of time
 
 ## What I learned
-###### Implementing Lean Touch, Virtual Buttons and other features in AR.
+###### Implementing Augmented Reality,A* algo for wayfinding, Baking nav mesh and had a great experience.
 
-## What's next for "EduLabs"
-###### 1. Creating a web portal for teacher where they can check the progress of their students in EduLabs.
-###### 2. Scaling up our application so that millions of students across the world can be benefitted.
+## What's next for "NAV-AR"
+###### Making it more cloud dependent so that the user can download the map from the database to navigate.
 
 ##   Our Team
-##### 1. Deepak Chaturvedi <a href="https://www.linkedin.com/in/deepak-chaturvedi-467a9b194/">Linkedin</a>
-##### 2. Kartik Gupta <a href="https://www.linkedin.com/in/thisiskartikgupta/">Linkedin</a>
-<img src="https://github.com/thisiskartikgupta/EduLabs-Team-Cyphers-HopHacks20/blob/master/README%20files/END.png" height=300 width=820></img>
+##### 1. Deepak Chaturvedi 
+##### 2. Kushagra Goel
+##### 3. Saurabh Chaudhary
+##### 4. Sankalp Jaitley
+
