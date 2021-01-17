@@ -17,7 +17,7 @@
 
 ## How We built it
 ###### We built navAR by use of SLAM i.e., Simultaneous Localization and Mapping,  a computational technique that involves the task of constructing an internal map of an unknown area whilst keeping track of its position inside the area. Next we rendered the map and made use of A* pathfinding algorithm for finding shortest path. To deliver a highly interactive  Augmented Reality Experience, we used Unity Engine and Google ARCore. Lastly we made use of a QR code scan mechanism for calibration and localisation purposes.
-### Our Team built EduLabs using  :
+### Our Team built NAV-AR using  :
 <ul>
   <li> <b>Unity</b> </li>
   <li> <b>Google ARCore </b> </li>
