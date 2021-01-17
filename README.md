@@ -1,4 +1,5 @@
-<p align=center><img src="https://github.com/thisiskartikgupta/EduLabs-Team-Cyphers-HopHacks20/blob/master/README%20files/edlabs_logo.png" height=150 width=150 ></img></p>
+<p align=center><img src="https://github.com/deepakchaturvedifzd/
+HTNE_SUBMISSION_NAV_AR/README%20files/edlabs_logo.png" height=150 width=150 ></img></p>
 
 
 <p align=center><b> Greetings from Team Cypher, </b></p>
