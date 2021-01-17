@@ -36,7 +36,7 @@
 ## Challenges We ran into
 ###### (re)positioning the user inside the map while navigation 
 
-## Accomplishments that I'm proud of
+## Accomplishments that we are proud of
 ###### Creating a fully functional Augmented Reality app(prototype) in a short span of time
 
 ## What I learned
