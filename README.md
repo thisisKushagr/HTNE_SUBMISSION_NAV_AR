@@ -38,7 +38,7 @@
 ###### Making it more cloud dependent so that the user can download the map from the database to navigate.
 
 ##   Our Team
-##### 1. Deepak Chaturvedi 
+##### 
 ##### 2. Kushagra Goel
 ##### 3. Saurabh Chaudhary
 ##### 4. Sankalp Jaitly
