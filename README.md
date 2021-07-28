@@ -1,4 +1,3 @@
-![](https://github.com/deepakchaturvedifzd/HTNE_SUBMISSION_NAV_AR/blob/main/README%20files/bg.PNG)
 <p align=center><b> Greetings from Team Cypher, </b></p>
 <p align=center> We are glad to present our idea </p>
 
@@ -38,12 +37,12 @@
 ###### Making it more cloud dependent so that the user can download the map from the database to navigate.
 
 ##   Our Team
-##### 
+##### 1. Deepak Chaturvedi
 ##### 2. Kushagra Goel
-##### 3. Saurabh Chaudhary
-##### 4. Sankalp Jaitly
+##### 3. Kartik Gupta
+##### 4. Saurabh Chaudhary
 
 ### Link to the video 
 <a href="https://www.youtube.com/watch?v=RqSFXXOLtUg">
-  <img src="https://github.com/kushagra-0-1/HTNE_SUBMISSION_NAV_AR/blob/main/README%20files/yt_logo.png" width=100 height=100>
+  <img src="https://github.com/kushagra-0-1/HTNE_SUBMISSION_NAV_AR/blob/main/README%20files/yt_logo.png" width=50 height=50>
 </a>
